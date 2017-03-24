@@ -1,0 +1,20 @@
+ab 3
+aa 10
+bb 8
+bc 3
+cc 3
+dd 7
+de 2
+ef 3
+fg 2
+gg 3
+ff 4
+ga 2
+ba 2
+fd 1
+ca 1
+bd 1
+ag 1
+da 1
+df 1
+
